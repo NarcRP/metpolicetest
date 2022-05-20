@@ -1,0 +1,25 @@
+footer{
+    text-align: center;
+}
+header{
+    align-items: center;
+    text-align: center;
+}
+.centretext{
+    text-align: center;
+}
+.policetrainingimage{
+    width: 600px;
+    border-radius: 10px;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.logo{
+    width: 100px;
+    position: relative;
+}
+.social-icon:hover{
+    cursor: pointer;
+}
