@@ -23,3 +23,9 @@ header{
 .social-icon:hover{
     cursor: pointer;
 }
+.no{
+    background: red;
+}
+.yes{
+    background: green;
+}
